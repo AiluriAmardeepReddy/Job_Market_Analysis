@@ -1,6 +1,3 @@
-# Job_Market_Analysis(EDA)
-“Python &amp; MySQL project analyzing job market trends in India”
-
 # Job Market Analysis using Python + MySQL
 
 ## 📌 Project Overview
